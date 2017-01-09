@@ -1,0 +1,24 @@
+{
+  "name": "header-parser",
+  "version": "1.0.0",
+  "description": "Request Header Parser Microservice. Project 2 for FCC Backend Certificate.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "request",
+    "header",
+    "parser",
+    "microservice",
+    "freecodecamp"
+  ],
+  "author": "Laura Veee",
+  "license": "ISC",
+  "dependencies": {
+    "cat-me": "^1.0.3",
+    "express": "^4.14.0"
+  }
+}
